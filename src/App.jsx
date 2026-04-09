@@ -31,7 +31,7 @@ const tabConfig = {
   },
   'Hotels & Resorts': {
     items: hotels,
-    subtitle: 'Comfort-first lodging with the splurge options still intact plus added value-minded picks that are often easier to price under about $400 per night, especially in Denver, Moab, Zion, and calmer parts of Las Vegas.',
+    subtitle: 'Comfort-first lodging with premium picks, value-minded options that are often easier to price under about $400 per night, and a fuller Marriott-family layer across the stops where Marriott choices actually exist.',
   },
   'National Parks': {
     items: nationalParks,
@@ -75,14 +75,14 @@ export default function App() {
         <div>
           <div className="title-row">
             <p className="eyebrow">mimi-and-doc-sw2026</p>
-            <span className="version-pill">VALUE HOTELS PASS • APR 2026</span>
+            <span className="version-pill">MARRIOTT EXPANSION • APR 2026</span>
           </div>
           <h1>Mimi &amp; Doc Southwest Road Trip Planner</h1>
           <p className="header-copy">
-            Senior-friendly planning for Denver, Moab, Torrey, Bryce, Zion, and Las Vegas — now with the premium stays still intact plus more economical hotel picks to price first when you want calmer options under about $400 per night.
+            Senior-friendly planning for Denver, Moab, Torrey, Bryce, Zion, and Las Vegas — now with premium stays, value-minded options, and a dedicated Marriott-family layer for the trip hubs where Marriott choices are strongest.
           </p>
           <div className="launch-banner">
-            <strong>New in this build:</strong> Premium stays are still here, but the hotel tab now also includes calmer value-minded options that are usually the first places to check when you want to stay closer to the under-$400 range. Exact rates still vary by date.
+            <strong>New in this build:</strong> Premium stays are still here, the value-minded options remain, and the hotel tab now also surfaces Marriott-brand choices across Denver, Moab, Zion, and Las Vegas so those options are easier to compare in one place.
           </div>
         </div>
 

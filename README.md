@@ -1,10 +1,8 @@
-# Mimi & Doc Southwest Road Trip Planner
+# Mimi & Doc SW 2026 — Marriott Expansion
 
-This package includes the **VALUE HOTELS PASS • APR 2026** update.
+This package keeps the premium and value hotel options already in the app and adds a fuller Marriott-family layer for the hubs where Marriott options actually exist.
 
-What changed:
-- kept the premium hotel options already in the app
-- added more economical hotel options across Denver, Moab, Torrey, Bryce, Zion, and Las Vegas
-- added a **Budget note** on hotel cards to help identify the places that are better first checks when trying to stay closer to the under-$400 range
+Confirmation marker in the app header:
+MARRIOTT EXPANSION • APR 2026
 
 Upload the contents of this folder to the root of your GitHub repo, replace existing files, commit, and let Vercel redeploy.
