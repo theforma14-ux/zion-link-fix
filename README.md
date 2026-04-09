@@ -1,5 +1,10 @@
-# Link Audit Pass
+# Mimi & Doc Southwest Road Trip Planner
 
-Confirmation marker: LINK AUDIT PASS • APR 2026
+This package includes the **VALUE HOTELS PASS • APR 2026** update.
 
-Upload the contents of this folder to your repo root, replace existing files, commit, and let Vercel redeploy.
+What changed:
+- kept the premium hotel options already in the app
+- added more economical hotel options across Denver, Moab, Torrey, Bryce, Zion, and Las Vegas
+- added a **Budget note** on hotel cards to help identify the places that are better first checks when trying to stay closer to the under-$400 range
+
+Upload the contents of this folder to the root of your GitHub repo, replace existing files, commit, and let Vercel redeploy.

@@ -31,7 +31,7 @@ const tabConfig = {
   },
   'Hotels & Resorts': {
     items: hotels,
-    subtitle: 'Comfort-first lodging with richer compare tags, calmer luxury picks, and clearer “best for parents” guidance, especially in Las Vegas.',
+    subtitle: 'Comfort-first lodging with the splurge options still intact plus added value-minded picks that are often easier to price under about $400 per night, especially in Denver, Moab, Zion, and calmer parts of Las Vegas.',
   },
   'National Parks': {
     items: nationalParks,
@@ -75,14 +75,14 @@ export default function App() {
         <div>
           <div className="title-row">
             <p className="eyebrow">mimi-and-doc-sw2026</p>
-            <span className="version-pill">LINK AUDIT PASS • APR 2026</span>
+            <span className="version-pill">VALUE HOTELS PASS • APR 2026</span>
           </div>
           <h1>Mimi &amp; Doc Southwest Road Trip Planner</h1>
           <p className="header-copy">
-            Senior-friendly planning for Denver, Moab, Torrey, Bryce, Zion, and Las Vegas — now with an audited set of stronger official and destination links across hotels, churches, restaurants, parks, and Vegas venues.
+            Senior-friendly planning for Denver, Moab, Torrey, Bryce, Zion, and Las Vegas — now with the premium stays still intact plus more economical hotel picks to price first when you want calmer options under about $400 per night.
           </p>
           <div className="launch-banner">
-            <strong>New in this build:</strong> Links were reviewed and cleaned up, with social-only or weaker destinations replaced where better official or tourism sources were available.
+            <strong>New in this build:</strong> Premium stays are still here, but the hotel tab now also includes calmer value-minded options that are usually the first places to check when you want to stay closer to the under-$400 range. Exact rates still vary by date.
           </div>
         </div>
 

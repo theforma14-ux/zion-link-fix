@@ -34,7 +34,7 @@ export default function CollectionView({ title, subtitle, items }) {
               </div>
             ) : null}
 
-            {(item.hours || item.massTimes || item.routeTip) ? (
+            {(item.hours || item.massTimes || item.routeTip || item.priceNote) ? (
               <div className="info-stack">
                 {item.hours ? (
                   <div className="info-line">
@@ -46,6 +46,12 @@ export default function CollectionView({ title, subtitle, items }) {
                   <div className="info-line">
                     <span className="mini-label">Mass / prayer times</span>
                     <p>{item.massTimes}</p>
+                  </div>
+                ) : null}
+                {item.priceNote ? (
+                  <div className="info-line">
+                    <span className="mini-label">Budget note</span>
+                    <p>{item.priceNote}</p>
                   </div>
                 ) : null}
                 {item.routeTip ? (
