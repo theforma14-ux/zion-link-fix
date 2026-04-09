@@ -75,14 +75,14 @@ export default function App() {
         <div>
           <div className="title-row">
             <p className="eyebrow">mimi-and-doc-sw2026</p>
-            <span className="version-pill">STATE PARKS + ZION LINK FIX • APR 2026</span>
+            <span className="version-pill">LINK AUDIT PASS • APR 2026</span>
           </div>
           <h1>Mimi &amp; Doc Southwest Road Trip Planner</h1>
           <p className="header-copy">
-            Senior-friendly planning for Denver, Moab, Torrey, Bryce, Zion, and Las Vegas — now with cleaner Vegas arrivals, a fixed Cliffrose link, and a stronger Utah state park bench for extra scenic choices.
+            Senior-friendly planning for Denver, Moab, Torrey, Bryce, Zion, and Las Vegas — now with an audited set of stronger official and destination links across hotels, churches, restaurants, parks, and Vegas venues.
           </p>
           <div className="launch-banner">
-            <strong>New in this build:</strong> Vegas sign removed from Attractions, Cliffrose Springdale link corrected, and more Utah state park options added across the route.
+            <strong>New in this build:</strong> Links were reviewed and cleaned up, with social-only or weaker destinations replaced where better official or tourism sources were available.
           </div>
         </div>
 
